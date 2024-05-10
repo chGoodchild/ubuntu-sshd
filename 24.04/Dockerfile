@@ -1,4 +1,4 @@
-FROM       ubuntu:%VERSION%
+FROM       ubuntu:24.04
 MAINTAINER Aleksandar Diklic "https://github.com/rastasheep"
 
 RUN apt-get update
